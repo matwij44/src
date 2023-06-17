@@ -1,0 +1,6 @@
+Django
+django-bootstrap-form
+djangorestframework
+psycopg2-binary
+Pillow
+gunicorn
